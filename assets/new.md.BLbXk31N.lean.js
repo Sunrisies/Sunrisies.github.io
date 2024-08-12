@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as a,a1 as n}from"./chunks/framework.RWCQRwqv.js";const c=JSON.parse('{"title":"浏览器函数库","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"new.md","filePath":"new.md"}'),e={name:"new.md"},l=n("",29),t=[l];function h(p,k,r,d,o,E){return i(),a("div",null,t)}const m=s(e,[["render",h]]);export{c as __pageData,m as default};

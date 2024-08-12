@@ -1,0 +1,1 @@
+import{_ as a,o as i,c as s,a1 as e}from"./chunks/framework.RWCQRwqv.js";const g=JSON.parse('{"title":"通用工具函数","description":"","frontmatter":{"outline":"deep"},"headers":[],"relativePath":"utils.md","filePath":"utils.md"}'),t={name:"utils.md"},n=e("",31),l=[n];function h(r,o,p,d,k,c){return i(),s("div",null,l)}const m=a(t,[["render",h]]);export{g as __pageData,m as default};
